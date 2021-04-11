@@ -1,8 +1,8 @@
 # Survival_Analysis
 Simple python code implementation of survival analysis in biostatistics.
-
+<br>
 The dataset is a clinical trial in the treatment of primary biliary cirrhosis from 1974-1984 in Mayo clinic.
-
+<br>
 Content:
 Life tables
 Kaplan-Meier curves
